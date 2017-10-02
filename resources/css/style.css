@@ -10,12 +10,12 @@ p {
   color: Gray;
   font-size: 21px;
 }
-#page-header {
+h1 {
   font-weight: normal;
   font-size: 50px;
   color: White;
 }
-.section-header {
+h2 {
   font-size: 42px;
   color: White;
   font-weight: normal;

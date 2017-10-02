@@ -1,0 +1,31 @@
+/*Global selectors*/
+* {
+  font-family: Verdana;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+p {
+  color: Gray;
+  font-size: 21px;
+}
+#page-header {
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+.section-header {
+  font-size: 42px;
+  color: White;
+  font-weight: normal;
+}
+.brochure {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
